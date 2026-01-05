@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いつかはね",
+  "base_artist": "スーパー登山部",
+  "createdAt": "2026-01-05T15:29:08.968065Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつかはね",
+      "artist": "スーパー登山部",
+      "has_synced": false,
+      "path": "select/pl_01_いつかはね_スーパー登山部.txt"
+    }
+  ]
+}
